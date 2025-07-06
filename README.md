@@ -18,14 +18,14 @@ This project was built as part of the May 2025 DataDNA Challenge, where I worked
 5. Structured Problem-Solving Approach to address each business question
 
 ## 🔍 Key Questions Explored
-Q1. Which mobile brands and models are top sellers overall and in specific regions?
-Q2. How do storage size, color, and operating system affect sales?
-Q3. What is the typical customer profile for different devices?
-Q4. How are sales and revenue distributed across online, in-store, and partner channels?
-Q5. Which countries or cities generate the highest revenue and sales volume?
-Q6. Are there patterns in customer demographics by price range or brand?
-Q7. What are the monthly trends in sales performance?
-Q8. Do different age groups prefer different brands or devices?
+1. Which mobile brands and models are top sellers overall and in specific regions?
+2. How do storage size, color, and operating system affect sales?
+3. What is the typical customer profile for different devices?
+4. How are sales and revenue distributed across online, in-store, and partner channels?
+5. Which countries or cities generate the highest revenue and sales volume?
+6. Are there patterns in customer demographics by price range or brand?
+7. What are the monthly trends in sales performance?
+8. Do different age groups prefer different brands or devices?
 
 ## 📊 Key Insights (Example — customize with your actual findings)
 
